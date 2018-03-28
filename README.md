@@ -1,0 +1,2 @@
+# msCash
+microservice Cash Manager
